@@ -1,2 +1,3 @@
 # app-dev
 My first repository.
+VALORANT,CF,SF,GENSHIN,HRS,GTA,DOTA,LOL,GROWTOPIA
